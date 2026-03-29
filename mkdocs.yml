@@ -1,0 +1,15 @@
+site_name: "VDOS-2026: International Workshop on Vaccine and Drug Ontology Studies"
+repo_url: https://github.com/vdos-workshop/vdos2026/
+edit_uri: '?query=root/vdos2026/docs/'
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - VDOS Introduction: vdos_intro.md
+  - Call for Submissions: call-for-submissions.md
+  - Program: program.md
+  - Keynote Speakers: keynote-speakers.md
+  - Registration: registration.md
+  - Contact Information: contact-information.md
+  - Co-organizers: co-organizers.md
+  
