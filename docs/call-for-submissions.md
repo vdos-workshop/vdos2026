@@ -7,8 +7,7 @@ The 15th International Workshop on Vaccine and Drug Ontology Studies will be hel
 VDOS 2026 will be held in person at the Washington Hilton in Washington, D.C., co-located with ICBO 2026 and ISMB 2026. Virtual participation options may also be available.
 
 ## Conference Dates
-Journal Paper submission: May 1, 2026<BR>
-Notification of acceptance: May 31, 2026<BR>
+Journal Paper submission: May 15, 2026 (extended from May 1)<BR>
 EasyChair (full, short, & abstract) submission: June 1, 2026<BR>
 Notification of acceptance: June 15, 2026<BR><BR>
 Workshop: TBD (July 2026, on or around July 15-17; Half-day)<BR>
