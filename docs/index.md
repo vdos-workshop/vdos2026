@@ -4,8 +4,7 @@ The 15th International Workshop on Vaccine and Drug Ontology Studies will be hel
 Please refer to the [ICBO website](https://icbo-conference.github.io/icbo2026/) for more information on other workshops and the main ICBO conference.
 
 ## Conference Dates
-Journal Paper submission: May 1, 2026<BR>
-Notification of acceptance: May 31, 2026<BR>
+Journal Paper submission: May 15, 2026 (extended from May 1)<BR>
 EasyChair (full, short, & abstract) submission: June 1, 2026<BR>
 Notification of acceptance: June 15, 2026<BR><BR>
 **Workshop**: TBD (July 2026, on or around July 15-17; Half-day)<BR>
