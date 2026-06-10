@@ -7,8 +7,7 @@ The 15th International Workshop on Vaccine and Drug Ontology Studies will be hel
 VDOS 2026 will be held in person at the Washington Hilton in Washington, D.C., co-located with ICBO 2026 and ISMB 2026. Virtual participation options may also be available.
 
 ## Conference Dates
-Journal Paper submission: May 1, 2026<BR>
-Notification of acceptance: May 31, 2026<BR>
+Journal Paper submission: May 15, 2026 (extended from May 1)<BR>
 EasyChair (full, short, & abstract) submission: June 1, 2026<BR>
 Notification of acceptance: June 15, 2026<BR><BR>
 Workshop: TBD (July 2026, on or around July 15-17; Half-day)<BR>
@@ -18,7 +17,7 @@ Alternatively, submission to **EasyChair**: [https://easychair.org/my/conference
 
 We suggest that you submit your papers directly to JBMS if you think your paper meets the journal paper quality. Please follow the JBMS paper submission instructions, and remember to select the **[JBMS VDOS collection](https://www.biomedcentral.com/collections/vdosseries)** link (Note: the collection is labeled as **vdosseries**, but it can still be used for vdos2026 submission). Please note that there is no guarantee that the journal submission will be reviewed before the workshop. If the journal submission is not reviewed in a timely manner, the authors may be asked to submit an abstract to EasyChair so that they may still be able to present the paper in the workshop.
 
-If your paper is more preliminary but is suitable for the conference presentation, we suggest you submit it to our **[EasyChair](https://easychair.org/my/conference?conf=vdos2026)**. For the EasyChair submissions, all selected full-length papers and short papers will be invited to submit a full revised version to the Journal of Biomedical Semantics (JBMS) VDOS Special Issue. The conference paper format for EasyChair submission will be the same as the format used in ICBO. Contributions must be delivered non-anonymously and as a single PDF file, following the CEUR-ART [template.docx file](https://icbo-conference.github.io/icbo2026/papers/CEUR-Template-1col.docx), single column. There is also an Overleaf Template available [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).<br>
+If your paper is more preliminary but is suitable for the conference presentation, we suggest you submit it to our **[EasyChair](https://easychair.org/my/conference?conf=vdos2026)**. For the EasyChair submissions, all selected full-length papers and short papers will be invited to submit a full revised version to the Journal of Biomedical Semantics (JBMS) VDOS Special Issue. The conference paper format for EasyChair submission will be the same as the format used in ICBO. Contributions must be delivered non-anonymously and as a single PDF file, following the CEUR-ART [CEUR-Template-1col-ICBO2026.docx file](https://icbo-conference.github.io/icbo2026/CEUR-Template-1col-ICBO2026.docx), single column. There is also an Overleaf Template available [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).<br>
 
 ## Submission Format
 For the **[EasyChair](https://easychair.org/my/conference?conf=vdos2026)** paper submission, we will allow three submission formats:<BR>
