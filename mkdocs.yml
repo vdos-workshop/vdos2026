@@ -3,6 +3,8 @@ repo_url: https://github.com/vdos-workshop/vdos2026/
 edit_uri: '?query=root/vdos2026/docs/'
 theme:
   name: readthedocs
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Home: index.md
   - VDOS Introduction: vdos_intro.md
