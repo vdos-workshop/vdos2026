@@ -8,9 +8,10 @@ Journal Paper submission: May 1, 2026<BR>
 Notification of acceptance: May 31, 2026<BR>
 EasyChair (full, short, & abstract) submission: June 1, 2026<BR>
 Notification of acceptance: June 15, 2026<BR><BR>
-**Workshop**: TBD (July 2026, on or around July 15-17; Half-day)<BR>
+**Workshop**: Friday, July 17, 2026, 9:00 AM – 12:00 PM EDT (Half-day)<BR>
 **Venue**: Washington Hilton, Washington, D.C. (co-located with ICBO 2026 and ISMB 2026)<BR>
-**Registration**: Registration details will be announced soon.<BR><BR>
+**Virtual**: The Zoom link for virtual participants will be provided near the conference.<BR>
+**Registration**: Registration is handled through ISMB 2026 (ICBO-only or ISMB + ICBO). See the [Registration](registration.md) page.<BR><BR>
 Submission to journal: **JBMS** (continuous; [https://www.biomedcentral.com/collections/vdosseries](https://www.biomedcentral.com/collections/vdosseries))<BR>
 Alternatively, submission to **EasyChair**: [https://easychair.org/my/conference?conf=vdos2026](https://easychair.org/my/conference?conf=vdos2026)<BR>
 
