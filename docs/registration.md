@@ -1,6 +1,6 @@
 # VDOS 2026 Registration
 
-**Workshop**: Friday, July 17, 2026, 9:00 AM – 12:00 PM EDT (Half-day)<BR>
+**Workshop**: Thursday, July 16, 2026, 1:00 PM – 4:00 PM EDT (Half-day)<BR>
 **Venue**: Washington Hilton, Washington, D.C. (co-located with ICBO 2026 and ISMB 2026)<BR><BR>
 
 VDOS 2026 is a workshop of **ICBO 2026**, and registration is handled through the **ISMB 2026** registration portal. To attend VDOS, register for ICBO 2026 by selecting the appropriate ICBO option during the ISMB registration process.

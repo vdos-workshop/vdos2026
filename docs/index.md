@@ -7,7 +7,7 @@ Please refer to the [ICBO website](https://icbo-conference.github.io/icbo2026/) 
 Journal Paper submission: May 15, 2026 (extended from May 1)<BR>
 EasyChair (full, short, & abstract) submission: June 1, 2026<BR>
 Notification of acceptance: June 15, 2026<BR><BR>
-**Workshop**: Friday, July 17, 2026, 9:00 AM – 12:00 PM EDT (Half-day)<BR>
+**Workshop**: Thursday, July 16, 2026, 1:00 PM – 4:00 PM EDT (Half-day)<BR>
 **Venue**: Washington Hilton, Washington, D.C. (co-located with ICBO 2026 and ISMB 2026)<BR>
 **Virtual**: The Zoom link for virtual participants will be provided near the conference.<BR>
 **Registration**: Registration is handled through ISMB 2026 (ICBO-only or ISMB + ICBO). See the [Registration](registration.md) page.<BR><BR>
