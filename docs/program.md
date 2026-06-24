@@ -6,6 +6,8 @@
 **Time**: 2:30 PM – 6:00 PM EDT (Half-day)<BR>
 **Venue**: Washington Hilton, Washington, D.C. (co-located with ICBO 2026 and ISMB 2026)<BR>
 
+**[Download the program (PDF)](vdos2026-program.pdf)**
+
 ### Allocated time (each including Q&A): **25 minutes** for full papers, **15 minutes** for short papers, and **10 minutes** for abstracts.
 
 ### Virtual: The Zoom link for virtual participants will be provided near the conference.
