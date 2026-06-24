@@ -10,7 +10,7 @@ VDOS 2026 will be held in person at the Washington Hilton in Washington, D.C., c
 Journal Paper submission: May 15, 2026 (extended from May 1)<BR>
 EasyChair (full, short, & abstract) submission: June 1, 2026<BR>
 Notification of acceptance: June 15, 2026<BR><BR>
-Workshop: Thursday, July 16, 2026, 1:00 PM – 4:00 PM EDT (Half-day)<BR>
+Workshop: Thursday, July 16, 2026, 2:30 PM – 6:00 PM EDT (Half-day)<BR>
 **Registration**: Registration is handled through ISMB 2026 (ICBO-only or ISMB + ICBO). See the [Registration](registration.md) page.<BR><BR>
 Submission to journal: **JBMS** (continuous; [https://www.biomedcentral.com/collections/vdosseries](https://www.biomedcentral.com/collections/vdosseries))<BR>
 Alternatively, submission to **EasyChair**: [https://easychair.org/my/conference?conf=vdos2026](https://easychair.org/my/conference?conf=vdos2026)<BR>
