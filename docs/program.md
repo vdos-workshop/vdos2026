@@ -25,9 +25,9 @@
 | 4:05 PM | **Hasin Rehana** (University of North Dakota) | Schema-Grounded Multitask Instruction Fine-tuning for Joint Biomedical Named Entity Recognition and Relation Extraction *(Full Paper)* |
 | 4:30 PM | **George Cao** (Mayo Clinic) | MassTabBio: High-Throughput Recovery of Structured Tables from Biomedical PDF Literature *(Short Paper)* |
 | 4:45 PM | **Jiadong Zhu** (University of Michigan) | Ontology-Supported Integration and Graph Neural Network Analysis of Vaccine Clinical Trials *(Abstract)* |
-| 4:55 PM | **Jianfu Li** (Mayo Clinic) | TrialTRUTH: Registry-Scale Automated Detection of Outcome Switching in Clinical Trials *(Abstract)* |
-| 5:05 PM | **Jianfu Li** (Mayo Clinic) | VaxOutcomeAI: LLM-Driven Categorization of Vaccine Clinical Trial Outcomes *(Abstract)* |
-| 5:15 PM | **Yongqun He** (University of Michigan) | RECIVax: Response Evaluation Criteria for Infectious Disease Vaccines *(Abstract)* |
+| 4:55 PM | **Yongqun He** (University of Michigan) | RECIVax: Response Evaluation Criteria for Infectious Disease Vaccines *(Abstract)* |
+| 5:05 PM | **Jianfu Li** (Mayo Clinic) | TrialTRUTH: Registry-Scale Automated Detection of Outcome Switching in Clinical Trials *(Abstract)* |
+| 5:15 PM | **Jianfu Li** (Mayo Clinic) | VaxOutcomeAI: LLM-Driven Categorization of Vaccine Clinical Trial Outcomes *(Abstract)* |
 | | **Session 3 — Group Discussion & Closing (Moderators: Cui Tao & Yongqun He)** | |
 | 5:25 PM | **Group** | Discussion & Closing Remarks |
 
