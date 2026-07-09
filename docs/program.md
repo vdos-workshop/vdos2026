@@ -10,7 +10,13 @@
 
 ### Allocated time (each including Q&A): **25 minutes** for full papers, **15 minutes** for short papers, and **10 minutes** for abstracts.
 
-### Virtual: The Zoom link for virtual participants will be provided near the conference.
+### Virtual Participation (Zoom)
+
+Join virtually: [https://umich.zoom.us/j/94066327765](https://umich.zoom.us/j/94066327765)
+
+**Passcode:** vdos2026
+
+**Note: If you are joining the workshop virtually only, no registration through the ISMB website is required. Virtual attendance is free and open to anyone who wishes to join.**
 
 | Time | Presenter | Title |
 | ---- | --------- | ----- |
