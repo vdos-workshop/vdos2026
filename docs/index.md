@@ -9,7 +9,7 @@ EasyChair (full, short, & abstract) submission: June 1, 2026<BR>
 Notification of acceptance: June 15, 2026<BR><BR>
 **Workshop**: **Thursday, July 16, 2026, 2:30 PM – 6:00 PM EDT** (Half-day)<BR>
 **Venue**: Washington Hilton, Washington, D.C. (co-located with ICBO 2026 and ISMB 2026)<BR>
-**Virtual**: The Zoom link for virtual participants will be provided near the conference.<BR>
+**Virtual**: Join via Zoom at **[https://umich.zoom.us/j/94066327765](https://umich.zoom.us/j/94066327765)** (Passcode: vdos2026). Virtual-only attendees do not need to register through the ISMB website; virtual attendance is free and open to anyone.<BR>
 **Registration**: Registration is handled through ISMB 2026 (ICBO-only or ISMB + ICBO). See the [Registration](registration.md) page.<BR><BR>
 Submission to journal: **JBMS** (continuous; [https://www.biomedcentral.com/collections/vdosseries](https://www.biomedcentral.com/collections/vdosseries))<BR>
 Alternatively, submission to **EasyChair**: [https://easychair.org/my/conference?conf=vdos2026](https://easychair.org/my/conference?conf=vdos2026)<BR>
