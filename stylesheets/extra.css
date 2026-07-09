@@ -1,0 +1,21 @@
+/* Widen the main content area (readthedocs theme defaults to 800px) so wide
+   tables like the Program schedule fit without horizontal scrolling. */
+.wy-nav-content {
+  max-width: 1150px;
+}
+
+/* Let tables use the full content width and wrap long cell text instead of
+   forcing a horizontal scrollbar. */
+.rst-content table.docutils,
+.rst-content table {
+  width: 100%;
+  display: table;
+}
+
+.rst-content table.docutils td,
+.rst-content table.docutils th,
+.rst-content table td,
+.rst-content table th {
+  white-space: normal;
+  vertical-align: top;
+}
